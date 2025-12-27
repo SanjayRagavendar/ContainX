@@ -4,7 +4,7 @@ import requests
 import json
 import time
 
-API = "c4c43fc8330b5d5bc81377900cf8586638c45dd770ca1272b92d3c01fe2a3e28"
+API = "a"
 OUT_JSON = "/output/logs/virustotal.json"
 OUT_VERDICT = "/output/logs/virustotal_status.txt"
 
